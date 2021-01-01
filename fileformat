@@ -1,0 +1,18 @@
+┌ = wall to the east and south (U+250C)
+╶ = wall to the east (U+2576)
+╷ = wall to the south (U+2577)
+╳ = no wall in east or south (U+2573)
+
+╺ = wall to the east with stairs (U+257A)
+╻ = wall to the south with stairs (U+257B)
+┏ = wall to the east and south with stairs (U+250F)
+
+├ = wall to the east and south with start (U+251C)
+│ = wall to the south with start (U+2502)
+└ = wall to the east with start (U+2514)
+╵ = no walls to east or south with start (U+2575)
+
+┬ = wall to the east and south with end (U+252C)
+┐ = wall to the south with end (U+2510)
+─ = wall to the east with end (U+2500)
+╴ = no walls to east or south with end (U+2574)
